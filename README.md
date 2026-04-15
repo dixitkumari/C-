@@ -30,11 +30,13 @@ int main()
 **OUTPUT**
 <img width="674" height="315" alt="image" src="https://github.com/user-attachments/assets/0d5f0840-0d1d-40af-82c4-a08560910b63" />
 
-**QUESTION2**
+**QUESTION2  Function that returns the square of a number**
+
 #include <iostream>
 using namespace std;
 
-// Function that returns the square of a number
+
+
 int square(int x)
 {
     return x * x;
@@ -42,6 +44,7 @@ int square(int x)
 
 int main()
 {
+   
     int num = 5;
 
     // 1. Normal function call
