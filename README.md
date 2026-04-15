@@ -9,7 +9,8 @@ int gVar = 100;
 
 int main()
 {
-    // Local variable inside main (stack)
+   
+    
     int lVar = 200;
 
     // Dynamic memory allocation (heap)
