@@ -4,6 +4,7 @@
 using namespace std;
 
 // Global variable
+
 int gVar = 100;
 
 int main()
